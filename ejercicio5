@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Javier Gonzalez Cordero">
+<meta name="description" content="Esta es mi pagina web la cual esta dividida por partes">
+<meta name="keywords" content="Parte,Descripcion,Contenido">
+<title>Título de la página 5</title>
+</head>
+<body>
+<header>
+    <h1>CHAMPIONS LEAGUE</h1>
+</header>
+<p>TROFEO</p>
+<img src="../imagenes/16950478089033.jpg">
+<br>
+<p>HIMNO CHAMPIONS</p>
+<audio autoplay controls>
+    <source src="../audio y videos/onlymp3.to - HIMNO UEFA CHAMPIONS LEAGUE LETRA-G0ty_mUEvuY-192k-1695191991.mp3">
+</audio>
+<br>
+<p>RESUMEN PARTIDO FINAL 2023</p>
+<video id="video final" width="900"  src="../audio y videos/SaveTube.io-HIGHLIGHTS! Man City 1-0 Inter _ CHAMPIONS OF EUROPE _ UEFA Champions League Final(720p).mp4" controls>
+</video>
+
+</body>

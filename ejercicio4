@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Javier Gonzalez Cordero">
+<meta name="description" content="Esta es mi pagina web la cual esta dividida por partes">
+<meta name="keywords" content="Parte,Descripcion,Contenido">
+<title>Título de la página 4</title>
+</head>
+<body>
+<header>
+    <h1>Mi pagina web</h1>
+    <img src="./imagenes/kvaratskhelia.jpg"  alt="Imagen de un jugador de futbol" width="200px">
+</header>
+<hr>
+<nav>
+    <h1>Menu</h1>
+    <ul>
+    <li><a href="#Apartado1">Apartado1</a></li>
+    <li><a href="#Apartado2">Apartado2</a></li>
+    <li><a href="#Apartado3">Apartado3</a></li>
+    </ul>
+</nav>
+<hr>
+<main>
+    <section>
+        <h1>Numeros de apartados de la pagina web</h1>
+    <ol type="1">
+    <li>Apartado1</li>
+    <li>Apartado2</li>
+    <li>Apartado3</li>
+    </ol>
+    <hr>
+    <article>
+    <h1>Apartado1</h1>
+    <p>Este es el primer apartado de la pagina</p>
+    </article>
+    <hr>
+    <article>
+        <h2>Apartado2</h2>
+        <p>Este es el segundo apartado de la pagina</p>
+    </article>
+    <hr>
+    <article>
+        <h3>Apartado3</h3>
+        <p>Este es el tercer apartado de la pagina</p>
+    </article>
+</section>
+</main>
+<hr>
+<time>18:00</time>
+<br>
+<label for="html5">Conocimientos de HTML5:</label>
+<meter id="html5" value="4" min="0" max="10">4 de 10</meter><br>
+<mark>GRAN RESULTADO</mark>
+<footer>
+    <h6>Final de pagina</h6>
+</footer>
+</body>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Javier Gonzalez Cordero">
+<meta name="description" content="Esta es mi pagina web la cual esta dividida por partes">
+<meta name="keywords" content="Parte,Descripcion,Contenido">
+<title>Título de la página 6</title>
+</head>
+<body>
+<header>
+    <h1>TABLA</h1>
+</header>
+<table>
+    <tr>
+        <th bgcolor="RED">LUNES</th>
+        <th bgcolor="RED">MARTES</th>
+        <th bgcolor="RED">MIERCOLES</th>
+        <th bgcolor="RED">JUEVES</th>
+        <th bgcolor="RED">VIERNES</th>
+    </tr>
+    <tr>
+        <th bgcolor="green">ASGBD</th>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="cyan">IAW</th>
+        <th bgcolor="cyan">IAW</th>
+        <th bgcolor="pink">FOL</th>
+    </tr>
+    <tr>
+        <th bgcolor="green">ASGBD</th>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="cyan">IAW</th>
+        <th bgcolor="cyan">IAW</th>
+        <th bgcolor="brown">SER</th>
+    </tr>
+    <tr>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="brown">SER</th>
+        <th bgcolor="grey">SAD</th>
+        <th bgcolor="pink">FOL</th>
+        <th bgcolor="brown">SER</th>
+    </tr>
+    <tr>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="brown">SER</th>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="brown">SER</th>
+        <th bgcolor="grey">SAD</th>
+    </tr>
+    <tr>
+        <th bgcolor="grey">SAD</th>
+        <th bgcolor="cyan">IAW</th>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="brown">SER</th>
+        <th bgcolor="grey">SAD</th>
+    </tr>
+    <tr>
+        <th bgcolor="pink">FOL</th>
+        <th bgcolor="green">ASGBD</th>
+        <th bgcolor="green">ASGBD</th>
+        <th bgcolor="yellow">ASOR</th>
+        <th bgcolor="yellow">ASOR</th>
+    </tr>
+</table>
+</body>

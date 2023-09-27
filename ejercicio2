@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Javier Gonzalez Cordero">
+<meta name="description" content="Esta es mi pagina web la cual esta dividida por partes">
+<meta name="keywords" content="Parte,Descripcion,Contenido">
+<title>Título de la página 2</title>
+</head>
+<body>
+<header>
+<h1>Parte1</h1>
+<br>
+<nav>
+    <ul><li><a href="#">Lista de navegacion</a></li></ul>
+    <ul><li><a href="#">Lista 2</a></li></ul>
+</nav>
+<br>
+</header>
+<main>
+    
+<hr> <!-- Linea Horizontal-->
+<section>
+<h2>Parte2</h2>
+<hr> <!-- Linea Horizontal-->
+<br>
+<article>
+<h3>Parte3</h3>
+<br>
+<p> </p>
+<hr> <!-- Linea Horizontal-->
+</article>
+<article>
+<h4>Parte4</h4>
+<br>
+
+<hr> <!-- Linea Horizontal-->
+</article>
+</section>
+<aside>
+<br>
+<h2>Contenido alternativo</h2> <!--Creo un encabezado -->
+<br>
+</aside>
+</main>
+<footer> <!--Añado un pie de pagina con un encabezado pequeño -->
+<h5>Pie de página</h5>
+</footer>
+</body>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 9</title>
+</head>
+<label>Nombre: </label>
+<input type="text" id="nombre" name="nombre" placeholder="Tu nombre aquí"/>
+<br>
+<label>Apellidos</label>
+<input type="text" id="nombre" name="nombre" placeholder="Tus apellidos aquí">
+<br>
+<form action="">
+    <label for="dni">DNI:</label>
+    <input type="text" id="dni" name="dni" pattern="(([X-Z]{1})([-]?)(\d{7})([-
+    ]?)([A-Z]{1}))|((\d{8})([-]?)([A-Z]{1}))" title="Debes incluir un DNI correcto
+    con 9 números y la letra en mayúscula">
+<br>
+</form>
+<label for="correo">Correo electrónico</label>
+<input id="correo" name="correo" type="email">
+<br>
+<label for="web"></label>Sitio web</label>
+<input id="web" name="webs" type="url">
+<br>
+<label for="tele">Teléfono</label>
+<input id="tele" name="tele" type="tel">
+<form action="" method="post" name="login">
+    <label for="usuario">Usuario: </label> <input type="text" name="usuario"
+    id="usuario" required>
+    <br>
+    <label for="clave">Clave: </label><input type="password" name="clave"
+    id="clave" required>
+    <br>
+    <label for="colorfd">Elegir color de fondo</label>
+<input id="colorfd" name="colorfd" type="color">
+<br>
+    <input type="submit" value="Enviar">
+    </form>
